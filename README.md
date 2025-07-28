@@ -45,6 +45,11 @@ By examining both cumulative and time-series data—such as total cases, deaths,
 - Rolling vaccination metrics revealed inconsistent deployment, with notable differences in vaccine coverage across regions.
 - Time-series analysis highlighted multiple infection surges, particularly in countries like the U.S. and U.K., reflecting pandemic wave patterns.
 
+---
+
+## Visual Dashboard Preview
+ ![Covid_Dashboard](https://github.com/user-attachments/assets/73fdc21c-183c-4f9b-bbeb-b3d75ba4428b)
+
 
 
 
